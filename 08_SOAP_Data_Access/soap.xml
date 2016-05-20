@@ -1,0 +1,6 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:inp="http://metamatrix.com/customerholdings/input">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <inp:CustomerID>CST01010</inp:CustomerID>
+   </soapenv:Body>
+</soapenv:Envelope>
